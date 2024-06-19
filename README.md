@@ -1,4 +1,4 @@
-# Solidity Style Guide
+# Guía de estilos en Solidity
 
 - [Solidity Style Guide](#solidity-style-guide)
   - [Introduction](#introduction)
